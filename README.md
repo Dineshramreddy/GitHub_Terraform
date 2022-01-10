@@ -1,2 +1,2 @@
 # GitHub_Terraform
-TErraform Files
+Terraform Files
